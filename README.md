@@ -1,4 +1,4 @@
-# UniFi-Rampart
+# UniFi-Ramparts
 
 <p align="center">
   <strong>Automated threat intelligence feeds for UniFi firewalls</strong>
